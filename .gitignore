@@ -1,0 +1,13 @@
+# Object files
+*.o
+*.obj
+
+# Static libraries
+*.a
+*.lib
+
+# Shared/dynamic libraries
+*.so
+*.dll
+*.dylib
+
